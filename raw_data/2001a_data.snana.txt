@@ -1,0 +1,133 @@
+# CREATED_DATE: 2020-07-20T20:29:02.490Z
+# MODIFIED_DATE: 2022-01-18T22:41:43.754Z
+# STATUS: Ignore
+# OBS_GROUP: YSE
+# NON_DETECT_BAND: None
+# BEST_SPEC_CLASS: None
+# PHOTO_CLASS: None
+# CONTEXT_CLASS: None
+# BEST_SPECTRUM: None
+# HOST: None
+# ABS_MAG_PEAK_BAND: None
+# ANTARES_CLASSIFICATION: None
+# INTERNAL_SURVEY: None
+# NAME: 2001A
+# RA: 184.84587499999998
+# DEC: 5.827916666666667
+# RA_ERR: None
+# DEC_ERR: None
+# DISC_DATE: 2001-01-01T00:00:00Z
+# REDSHIFT: None
+# REDSHIFT_ERR: None
+# REDSHIFT_SOURCE: None
+# NON_DETECT_DATE: None
+# NON_DETECT_LIMIT: None
+# MW_EBV: 0.015
+# ABS_MAG_PEAK: None
+# ABS_MAG_PEAK_DATE: None
+# POSTAGE_STAMP_FILE: None
+# POSTAGE_STAMP_REF: None
+# POSTAGE_STAMP_DIFF: None
+# POSTAGE_STAMP_FILE_FITS: None
+# POSTAGE_STAMP_REF_FITS: None
+# POSTAGE_STAMP_DIFF_FITS: None
+# K2_VALIDATED: None
+# K2_MSG: None
+# TNS_SPEC_CLASS: None
+# POINT_SOURCE_PROBABILITY: None
+# ALT_STATUS: None
+# SLUG: 2001a
+# REAL_BOGUS_SCORE: None
+# HAS_HST: True
+# HAS_SPITZER: None
+# HAS_CHANDRA: True
+# TAGS: [22, 46, 91]
+# END: 
+NVAR: 10 PHOTOMETRY
+VARNAMES: MJD FLT FLUXCAL FLUXCALERR MAG MAGERR MAGSYS TELESCOPE INSTRUMENT DQ
+OBS:      59044.271  g  404.011  458.023  20.984  1.231  None  Pan-STARRS1  GPC1  None
+OBS:      59044.274  i  1268.925  487.424  19.741  0.417  None  Pan-STARRS1  GPC1  None
+OBS:      59048.278  g  122.318  359.292  22.281  3.189  None  Pan-STARRS1  GPC1  None
+OBS:      59048.281  r  718.019  245.063  20.360  0.371  None  Pan-STARRS1  GPC1  None
+OBS:      59195.585  g  77.768  278.978  22.773  3.895  None  Pan-STARRS1  GPC1  None
+OBS:      59195.587  i  26.017  314.681  23.962  13.132  None  Pan-STARRS1  GPC1  None
+OBS:      59204.656  g  34.184  367.090  23.665  11.659  None  Pan-STARRS1  GPC1  None
+OBS:      59204.659  z  464.984  616.946  20.831  1.441  None  Pan-STARRS1  GPC1  None
+OBS:      59207.651  r  486.550  221.795  20.782  0.495  None  Pan-STARRS1  GPC1  None
+OBS:      59207.654  z  580.516  377.456  20.590  0.706  None  Pan-STARRS1  GPC1  None
+OBS:      59182.578  r  7848.842  7848.842  17.763  1.086  None  Thacher  ACP  Bad
+OBS:      59188.578  r  5956.437  5956.437  18.063  1.086  None  Thacher  ACP  Bad
+OBS:      59196.571  r  2619.425  2619.425  18.954  1.086  None  Thacher  ACP  Bad
+OBS:      59197.569  r  21744.134  21744.134  16.657  1.086  None  Thacher  ACP  Bad
+OBS:      59199.535  r  3856.385  3856.385  18.535  1.086  None  Thacher  ACP  Bad
+OBS:      59201.540  r  6191.684  6191.684  18.020  1.086  None  Thacher  ACP  Bad
+OBS:      59204.528  r  3632.592  3632.592  18.599  1.086  None  Thacher  ACP  Bad
+OBS:      59537.566  r  3882.017  3882.017  18.527  1.086  None  Thacher  ACP  Bad
+OBS:      59541.559  r  2909.572  2909.572  18.840  1.086  None  Thacher  ACP  Bad
+OBS:      59548.535  r  3936.556  3936.556  18.512  1.086  None  Thacher  ACP  Bad
+OBS:      59551.528  r  2441.194  2441.194  19.031  1.086  None  Thacher  ACP  Bad
+OBS:      59554.521  r  2277.718  2277.718  19.106  1.086  None  Thacher  ACP  Bad
+OBS:      59559.571  r  3156.444  3156.444  18.752  1.086  None  Thacher  ACP  Bad
+OBS:      59563.554  r  3834.889  3834.889  18.541  1.086  None  Thacher  ACP  Bad
+OBS:      59566.558  r  5539.062  5539.062  18.141  1.086  None  Thacher  ACP  Bad
+OBS:      59582.502  r  2242.490  2242.490  19.123  1.086  None  Thacher  ACP  Bad
+OBS:      59585.493  r  3062.352  3062.352  18.785  1.086  None  Thacher  ACP  Bad
+OBS:      59901.568  r  19150.642  19150.642  16.794  1.086  None  Thacher  ACP  Bad
+OBS:      59904.561  r  10153.449  10153.449  17.483  1.086  None  Thacher  ACP  Bad
+OBS:      59911.553  r  99534.297  99534.297  15.005  1.086  None  Thacher  ACP  Bad
+OBS:      59922.537  r  9744.639  9744.639  17.528  1.086  None  Thacher  ACP  Bad
+OBS:      59926.540  r  17531.579  17531.579  16.890  1.086  None  Thacher  ACP  Bad
+OBS:      59931.552  r  1918.436  1918.436  19.293  1.086  None  Thacher  ACP  Bad
+OBS:      59937.535  r  5676.238  5676.238  18.115  1.086  None  Thacher  ACP  Bad
+OBS:      59956.521  r  5697.681  5697.681  18.111  1.086  None  Thacher  ACP  Bad
+OBS:      59962.402  r  6284.839  6284.839  18.004  1.086  None  Thacher  ACP  Bad
+OBS:      59965.415  r  4131.705  4131.705  18.460  1.086  None  Thacher  ACP  Bad
+OBS:      59968.429  r  5860.800  5860.800  18.080  1.086  None  Thacher  ACP  Bad
+OBS:      59972.386  r  7562.041  7562.041  17.803  1.086  None  Thacher  ACP  Bad
+OBS:      59982.463  r  14803.426  14803.426  17.074  1.086  None  Thacher  ACP  Bad
+OBS:      59987.355  r  10332.495  10332.495  17.465  1.086  None  Thacher  ACP  Bad
+OBS:      60006.282  r  7207.484  7207.484  17.855  1.086  None  Thacher  ACP  Bad
+OBS:      60029.263  r  34176.379  34176.379  16.166  1.086  None  Thacher  ACP  Bad
+OBS:      60038.310  r  20757.028  20757.028  16.707  1.086  None  Thacher  ACP  Bad
+OBS:      60315.435  r  1420.791  1420.791  19.619  1.086  None  Thacher  ACP  Bad
+OBS:      60324.437  r  1750.078  1750.078  19.392  1.086  None  Thacher  ACP  Bad
+OBS:      60335.448  r  11905.242  11905.242  17.311  1.086  None  Thacher  ACP  Bad
+OBS:      60356.325  r  1671.011  1671.011  19.443  1.086  None  Thacher  ACP  Bad
+OBS:      60362.403  r  2240.320  2240.320  19.124  1.086  None  Thacher  ACP  Bad
+OBS:      60374.275  r  1733.863  1733.863  19.402  1.086  None  Thacher  ACP  Bad
+OBS:      60378.264  r  14468.592  14468.592  17.099  1.086  None  Thacher  ACP  Bad
+OBS:      60382.254  r  3964.122  3964.122  18.505  1.086  None  Thacher  ACP  Bad
+OBS:      60388.348  r  1522.575  1522.575  19.544  1.086  None  Thacher  ACP  Bad
+OBS:      60397.259  r  2469.503  2469.503  19.018  1.086  None  Thacher  ACP  Bad
+OBS:      60403.272  r  2522.098  2522.098  18.996  1.086  None  Thacher  ACP  Bad
+OBS:      59433.562  UVW1  121.339  121.115  22.290  1.080  None  Swift  UVOT  Bad
+OBS:      59790.565  UVW1  96.383  96.205  22.540  1.080  None  Swift  UVOT  Bad
+OBS:      59790.569  U  73.114  72.979  22.840  1.080  None  Swift  UVOT  Bad
+OBS:      59795.276  UVW1  253.513  253.046  21.490  1.080  None  Swift  UVOT  Bad
+OBS:      59795.278  U  187.068  186.724  21.820  1.080  None  Swift  UVOT  Bad
+OBS:      59558.359  r  -49.170  32.410  nan  -0.716  None  Blanco  DECam  None
+OBS:      59571.329  i  91.342  32.473  22.598  0.386  None  Blanco  DECam  None
+OBS:      59571.330  z  -27.026  42.170  nan  -1.694  None  Blanco  DECam  None
+OBS:      59572.346  i  47.968  35.587  23.298  0.805  None  Blanco  DECam  None
+OBS:      59579.328  g  -7.260  16.812  nan  -2.514  None  Blanco  DECam  None
+OBS:      59579.329  r  -10.376  17.692  nan  -1.851  None  Blanco  DECam  None
+OBS:      59582.345  g  6.722  20.172  25.431  3.258  None  Blanco  DECam  None
+OBS:      59582.345  i  16.547  26.951  24.453  1.768  None  Blanco  DECam  None
+OBS:      59585.340  g  20.360  16.054  24.228  0.856  None  Blanco  DECam  None
+OBS:      59585.350  r  -15.545  17.137  nan  -1.197  None  Blanco  DECam  None
+OBS:      59588.348  g  -31.555  60.304  nan  -2.075  None  Blanco  DECam  None
+OBS:      59588.351  i  31.060  32.653  23.769  1.141  None  Blanco  DECam  None
+OBS:      59592.348  g  -2.316  16.394  nan  -7.686  None  Blanco  DECam  None
+OBS:      59592.351  r  -12.040  17.732  nan  -1.599  None  Blanco  DECam  None
+OBS:      59595.356  g  25.426  16.419  23.987  0.701  None  Blanco  DECam  None
+OBS:      59595.359  r  -18.925  17.192  nan  -0.986  None  Blanco  DECam  None
+OBS:      60324.437  r  4705.042  4705.042  18.319  1.086  None  Thacher  ACP  Bad
+OBS:      60362.403  r  3755.531  3755.531  18.563  1.086  None  Thacher  ACP  Bad
+OBS:      60382.254  r  9726.525  9726.525  17.530  1.086  None  Thacher  ACP  Bad
+OBS:      60388.348  r  3376.497  3376.497  18.679  1.086  None  Thacher  ACP  Bad
+OBS:      60397.259  r  4409.879  4409.879  18.389  1.086  None  Thacher  ACP  Bad
+OBS:      60403.272  r  6062.535  6062.535  18.043  1.086  None  Thacher  ACP  Bad
+OBS:      60438.211  r  15241.500  15241.500  17.042  1.086  None  Thacher  ACP  Bad
+OBS:      60646.558  r  18128.536  18128.536  16.854  1.086  None  Thacher  ACP  Bad
+OBS:      60362.297  J  1287.624  1287.624  19.726  1.086  None  Blanco  NEWFIRM  Bad
+OBS:      60364.296  J  1118.264  1118.264  19.879  1.086  None  Blanco  NEWFIRM  Bad

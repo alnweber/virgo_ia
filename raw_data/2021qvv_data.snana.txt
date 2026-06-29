@@ -1,0 +1,445 @@
+# CREATED_DATE: 2021-06-23T09:35:39.067Z
+# MODIFIED_DATE: 2023-07-05T07:19:47.106Z
+# STATUS: Following
+# OBS_GROUP: Unknown
+# NON_DETECT_BAND: ZTF-Cam - g-ZTF
+# BEST_SPEC_CLASS: SN Ia
+# PHOTO_CLASS: None
+# CONTEXT_CLASS: None
+# BEST_SPECTRUM: None
+# HOST: Host: PSO J122803.888+094813.324; (12:28:03.88, +09:48:13.43)
+# ABS_MAG_PEAK_BAND: None
+# ANTARES_CLASSIFICATION: None
+# INTERNAL_SURVEY: None
+# NAME: 2021qvv
+# RA: 187.01214999999996
+# DEC: 9.802877777777779
+# RA_ERR: None
+# DEC_ERR: None
+# DISC_DATE: 2021-06-23T06:10:04.800Z
+# REDSHIFT: 0.0018
+# REDSHIFT_ERR: None
+# REDSHIFT_SOURCE: None
+# NON_DETECT_DATE: 2021-06-22T06:43:12Z
+# NON_DETECT_LIMIT: 18.4
+# MW_EBV: 0.019
+# ABS_MAG_PEAK: None
+# ABS_MAG_PEAK_DATE: None
+# POSTAGE_STAMP_FILE: None
+# POSTAGE_STAMP_REF: None
+# POSTAGE_STAMP_DIFF: None
+# POSTAGE_STAMP_FILE_FITS: None
+# POSTAGE_STAMP_REF_FITS: None
+# POSTAGE_STAMP_DIFF_FITS: None
+# K2_VALIDATED: None
+# K2_MSG: None
+# TNS_SPEC_CLASS: SN Ia
+# POINT_SOURCE_PROBABILITY: None
+# ALT_STATUS: None
+# SLUG: 2021qvv
+# REAL_BOGUS_SCORE: None
+# HAS_HST: True
+# HAS_SPITZER: None
+# HAS_CHANDRA: True
+# TAGS: [45, 46, 79, 91]
+# END: 
+NVAR: 10 PHOTOMETRY
+VARNAMES: MJD FLT FLUXCAL FLUXCALERR MAG MAGERR MAGSYS TELESCOPE INSTRUMENT DQ
+OBS:      59391.247  g-ZTF  123561.150  3714.433  14.770  0.033  None  P48  ZTF-Cam  None
+OBS:      59391.262  r-ZTF  136784.075  2445.709  14.660  0.019  None  P48  ZTF-Cam  None
+OBS:      59393.187  r-ZTF  214859.075  5241.585  14.170  0.026  None  P48  ZTF-Cam  None
+OBS:      59393.267  g-ZTF  193399.075  4089.423  14.284  0.023  None  P48  ZTF-Cam  None
+OBS:      59396.188  r-ZTF  306082.103  7091.173  13.785  0.025  None  P48  ZTF-Cam  None
+OBS:      59396.249  g-ZTF  217799.342  4658.521  14.155  0.023  None  P48  ZTF-Cam  None
+OBS:      60643.539  g-ZTF  -600.515  1155.552  nan  -2.089  None  P48  ZTF-Cam  None
+OBS:      60646.499  g-ZTF  -1145.967  314.163  nan  -0.298  None  P48  ZTF-Cam  None
+OBS:      60648.506  g-ZTF  749.800  517.167  20.313  0.749  None  P48  ZTF-Cam  None
+OBS:      60655.525  r-ZTF  -175.503  985.730  nan  -6.098  None  P48  ZTF-Cam  None
+OBS:      60659.496  g-ZTF  -1039.434  795.019  nan  -0.830  None  P48  ZTF-Cam  None
+OBS:      60664.505  g-ZTF  -310.386  385.006  nan  -1.347  None  P48  ZTF-Cam  None
+OBS:      60678.401  g-ZTF  -593.842  431.467  nan  -0.789  None  P48  ZTF-Cam  None
+OBS:      60680.399  r-ZTF  -3202.701  1114.379  nan  -0.378  None  P48  ZTF-Cam  None
+OBS:      60680.437  g-ZTF  -595.721  370.035  nan  -0.674  None  P48  ZTF-Cam  None
+OBS:      60684.464  g-ZTF  -80.254  341.125  nan  -4.615  None  P48  ZTF-Cam  None
+OBS:      60687.499  g-ZTF  -370.681  404.457  nan  -1.185  None  P48  ZTF-Cam  None
+OBS:      60689.474  g-ZTF  -783.404  585.713  nan  -0.812  None  P48  ZTF-Cam  None
+OBS:      60695.393  r-ZTF  -1123.360  483.043  nan  -0.467  None  P48  ZTF-Cam  None
+OBS:      60698.437  g-ZTF  -793.122  316.227  nan  -0.433  None  P48  ZTF-Cam  None
+OBS:      59388.257  orange  30959.932  1140.606  16.273  0.040  None  ATLAS  HKO  None
+OBS:      60304.654  r  -121.771  167.542  nan  -1.494  None  Pan-STARRS1  GPC1  None
+OBS:      60304.657  i  -942.615  222.326  nan  -0.256  None  Pan-STARRS1  GPC1  None
+OBS:      60307.640  i  -735.157  239.091  nan  -0.353  None  Pan-STARRS1  GPC1  None
+OBS:      60307.642  r  -974.994  242.653  nan  -0.270  None  Pan-STARRS1  GPC1  None
+OBS:      60308.651  r  416.788  510.959  20.950  1.331  None  Pan-STARRS1  GPC1  None
+OBS:      60308.653  z  -210.013  476.770  nan  -2.465  None  Pan-STARRS1  GPC1  None
+OBS:      59389.212  UVW1  1940.886  308.516  19.280  0.170  None  Swift  UVOT  None
+OBS:      59389.214  U  14321.879  1087.488  17.110  0.080  None  Swift  UVOT  None
+OBS:      59389.215  B  38725.764  2596.020  16.030  0.070  None  Swift  UVOT  None
+OBS:      59389.216  UVW2  505.825  108.034  20.740  0.230  None  Swift  UVOT  None
+OBS:      59389.220  V  70469.307  4588.336  15.380  0.070  None  Swift  UVOT  None
+OBS:      59389.221  UVM2  253.513  253.046  21.490  1.080  None  Swift  UVOT  Bad
+OBS:      59393.537  UVW1  4246.196  483.633  18.430  0.120  None  Swift  UVOT  None
+OBS:      59393.538  U  36307.805  4067.252  16.100  0.120  None  Swift  UVOT  None
+OBS:      59393.541  UVW2  1076.465  180.881  19.920  0.180  None  Swift  UVOT  None
+OBS:      59393.543  V  216770.410  12141.463  14.160  0.060  None  Swift  UVOT  None
+OBS:      59393.544  UVM2  359.749  359.087  21.110  1.080  None  Swift  UVOT  Bad
+OBS:      59398.046  UVW1  3104.560  409.305  18.770  0.140  None  Swift  UVOT  None
+OBS:      59398.047  U  14588.143  1899.701  17.090  0.140  None  Swift  UVOT  None
+OBS:      59398.050  UVW2  1116.863  147.247  19.880  0.140  None  Swift  UVOT  None
+OBS:      59398.185  V  244343.055  38315.030  14.030  0.170  None  Swift  UVOT  None
+OBS:      59400.372  UVW1  2654.606  373.919  18.940  0.150  None  Swift  UVOT  None
+OBS:      59400.376  UVW2  630.957  146.290  20.500  0.250  None  Swift  UVOT  None
+OBS:      59400.380  UVM2  272.898  60.778  21.410  0.240  None  Swift  UVOT  None
+OBS:      59413.515  U  5701.643  1788.130  18.110  0.340  None  Swift  UVOT  Bad
+OBS:      59413.516  B  22698.649  4617.215  16.610  0.220  None  Swift  UVOT  None
+OBS:      59415.377  U  7516.229  705.808  17.810  0.100  None  Swift  UVOT  None
+OBS:      59415.379  B  23120.648  4491.074  16.590  0.210  None  Swift  UVOT  None
+OBS:      59415.381  V  66069.345  12182.667  15.450  0.200  None  Swift  UVOT  None
+OBS:      59417.433  B  19408.859  4304.118  16.780  0.240  None  Swift  UVOT  None
+OBS:      59417.435  V  68548.823  12009.487  15.410  0.190  None  Swift  UVOT  None
+OBS:      59786.923  UVW1  787.046  785.596  20.260  1.080  None  Swift  UVOT  Bad
+OBS:      60139.993  UVW1  405.509  404.762  20.980  1.080  None  Swift  UVOT  Bad
+OBS:      60274.206  UVW1  636.796  635.623  20.490  1.080  None  Swift  UVOT  Bad
+OBS:      60291.422  UVW1  751.623  126.297  20.310  0.180  None  Swift  UVOT  None
+OBS:      60304.698  UVW1  465.586  124.991  20.830  0.290  None  Swift  UVOT  None
+OBS:      60651.344  UVW1  313.329  101.351  21.260  0.350  None  Swift  UVOT  Bad
+OBS:      60660.501  UVW1  394.457  393.731  21.010  1.080  None  Swift  UVOT  Bad
+OBS:      60834.399  UVW1  597.035  595.936  20.560  1.080  None  Swift  UVOT  Bad
+OBS:      59389.832  gp  80566.274  702.157  15.235  0.009  None  Siding_Spring_1m  Sinistro  None
+OBS:      59389.837  rp  1521.383  1521.383  19.544  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59389.842  ip  93141.190  636.920  15.078  0.007  None  Siding_Spring_1m  Sinistro  None
+OBS:      59393.077  up  50070.876  1142.425  15.751  0.025  None  Siding_Spring_1m  Sinistro  None
+OBS:      59393.079  gp  186455.671  1666.796  14.323  0.010  None  Siding_Spring_1m  Sinistro  None
+OBS:      59393.080  rp  199084.313  1548.269  14.252  0.008  None  Siding_Spring_1m  Sinistro  None
+OBS:      59393.081  ip  167058.057  1211.338  14.443  0.008  None  Siding_Spring_1m  Sinistro  None
+OBS:      59395.063  gp  221240.073  1244.808  14.138  0.006  None  Siding_Spring_1m  Sinistro  None
+OBS:      59395.067  rp  237202.746  1159.806  14.062  0.005  None  Siding_Spring_1m  Sinistro  None
+OBS:      59395.071  ip  203068.679  931.279  14.231  0.005  None  Siding_Spring_1m  Sinistro  None
+OBS:      59399.392  up  18485.679  367.206  16.833  0.022  None  Siding_Spring_1m  Sinistro  None
+OBS:      59399.394  gp  167038.090  1113.546  14.443  0.007  None  Siding_Spring_1m  Sinistro  None
+OBS:      59399.395  rp  313083.080  1853.145  13.761  0.006  None  Siding_Spring_1m  Sinistro  None
+OBS:      59399.396  ip  277338.126  1666.102  13.893  0.006  None  Siding_Spring_1m  Sinistro  None
+OBS:      59404.253  Unknown  1643.057  1643.057  19.461  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59404.253  ip  894.372  894.372  20.121  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59404.253  zs  1643.057  1643.057  19.461  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59404.253  rp  191996.594  3224.691  14.291  0.018  None  Siding_Spring_1m  Sinistro  None
+OBS:      59404.253  gp  75066.961  1181.812  15.312  0.017  None  Siding_Spring_1m  Sinistro  None
+OBS:      59427.962  up  4718.683  783.132  18.315  0.180  None  Siding_Spring_1m  Sinistro  None
+OBS:      59427.964  gp  20034.851  411.246  16.746  0.022  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59427.965  rp  29313.166  488.184  16.332  0.018  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59427.966  ip  35987.182  662.447  16.110  0.020  None  Siding_Spring_1m  Sinistro  None
+OBS:      59433.978  up  2818.944  2818.944  18.875  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59433.981  gp  22611.722  336.217  16.614  0.016  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59433.982  rp  3839.760  3839.760  18.539  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59433.983  ip  36753.856  496.973  16.087  0.015  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59439.966  up  21840.582  21840.582  16.652  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59439.968  gp  8647.365  8647.365  17.658  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59439.969  rp  7701.066  7701.066  17.784  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59439.970  ip  9138.874  9138.874  17.598  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59524.496  up  2990.069  2990.069  18.811  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59524.501  gp  2606.122  2606.122  18.960  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59524.502  rp  3376.523  3376.523  18.679  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59524.503  ip  4317.534  4317.534  18.412  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59533.264  up  4487.548  4487.548  18.370  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59533.269  gp  1853.580  1853.580  19.330  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59533.270  rp  2407.012  2407.012  19.046  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59533.271  ip  3792.751  3792.751  18.553  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59541.452  rp  272682.727  272682.727  13.911  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59541.453  ip  256299.620  256299.620  13.978  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59548.455  up  8829.201  8829.201  17.635  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59548.457  gp  3609.901  3609.901  18.606  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59548.458  rp  5706.526  5706.526  18.109  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59548.459  ip  8102.916  8102.916  17.728  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59555.233  up  15709.635  15709.635  17.010  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59555.235  gp  4528.777  4528.777  18.360  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59555.236  rp  6452.003  6452.003  17.976  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59555.237  ip  14377.292  14377.292  17.106  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59562.148  up  4902.163  4902.163  18.274  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59562.150  gp  3223.839  3223.839  18.729  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59562.151  rp  4941.443  4941.443  18.265  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59562.152  ip  4318.356  4318.356  18.412  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59580.684  up  1420.009  1420.009  19.619  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59580.690  gp  1575.701  1575.701  19.506  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59580.691  rp  1964.451  1964.451  19.267  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59580.692  ip  2515.787  2515.787  18.998  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59596.621  rp  225.834  225.834  21.616  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59596.621  gp  270.386  270.386  21.420  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59596.621  ip  312.289  312.289  21.264  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59596.621  Unknown  360.449  360.449  21.108  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59596.621  zs  360.449  360.449  21.108  1.086  None  Siding_Spring_1m  Sinistro  Bad
+OBS:      59331.432  orange-ATLAS  -1.725  0.769  nan  -0.484  None  ATLAS  HKO  None
+OBS:      59332.432  orange-ATLAS  -2.497  0.635  nan  -0.276  None  ATLAS  HKO  None
+OBS:      59334.401  orange-ATLAS  -0.637  0.469  nan  -0.799  None  ATLAS  HKO  None
+OBS:      59335.352  orange-ATLAS  -0.581  1.089  nan  -2.036  None  ATLAS  HKO  None
+OBS:      59335.368  orange-ATLAS  -0.967  0.405  nan  -0.454  None  ATLAS  HKO  None
+OBS:      59336.436  orange-ATLAS  1.296  0.496  19.189  5.000  None  ATLAS  HKO  None
+OBS:      59336.448  orange-ATLAS  -0.726  1.162  nan  -1.737  None  ATLAS  HKO  None
+OBS:      59338.464  cyan-ATLAS  2.650  1.089  18.370  5.000  None  ATLAS  HKO  None
+OBS:      59338.478  cyan-ATLAS  0.879  0.478  19.390  5.000  None  ATLAS  HKO  None
+OBS:      59338.495  cyan-ATLAS  1.053  1.126  18.684  5.000  None  ATLAS  HKO  None
+OBS:      59339.423  cyan-ATLAS  1.598  1.888  18.147  5.000  None  ATLAS  HKO  None
+OBS:      59339.427  cyan-ATLAS  -1.126  2.759  nan  -2.662  None  ATLAS  HKO  Bad
+OBS:      59339.467  cyan-ATLAS  -0.827  0.884  nan  -1.160  None  ATLAS  HKO  None
+OBS:      59339.483  cyan-ATLAS  -0.310  0.654  nan  -2.294  None  ATLAS  HKO  None
+OBS:      59339.495  cyan-ATLAS  -0.182  1.380  nan  -8.252  None  ATLAS  HKO  None
+OBS:      59339.504  cyan-ATLAS  2.033  2.106  17.996  5.000  None  ATLAS  HKO  Bad
+OBS:      59339.519  cyan-ATLAS  0.145  1.234  18.837  5.000  None  ATLAS  HKO  None
+OBS:      59342.363  cyan-ATLAS  -1.670  0.690  nan  -0.448  None  ATLAS  HKO  None
+OBS:      59342.367  cyan-ATLAS  2.251  0.944  18.535  5.000  None  ATLAS  HKO  None
+OBS:      59342.378  cyan-ATLAS  1.273  0.474  19.224  5.000  None  ATLAS  HKO  None
+OBS:      59342.396  cyan-ATLAS  0.944  0.835  18.956  5.000  None  ATLAS  HKO  None
+OBS:      59343.328  cyan-ATLAS  0.436  1.307  18.702  5.000  None  ATLAS  HKO  None
+OBS:      59343.340  cyan-ATLAS  1.727  0.484  19.707  0.304  None  ATLAS  HKO  None
+OBS:      59343.352  cyan-ATLAS  2.578  0.762  19.272  0.321  None  ATLAS  HKO  None
+OBS:      59345.379  orange-ATLAS  -0.635  0.421  nan  -0.720  None  ATLAS  HKO  None
+OBS:      59345.398  orange-ATLAS  -2.687  0.581  nan  -0.235  None  ATLAS  HKO  None
+OBS:      59345.403  orange-ATLAS  -0.581  0.944  nan  -1.764  None  ATLAS  HKO  None
+OBS:      59346.368  cyan-ATLAS  0.588  0.324  19.818  5.000  None  ATLAS  HKO  None
+OBS:      59346.378  cyan-ATLAS  -0.399  0.581  nan  -1.579  None  ATLAS  HKO  None
+OBS:      59347.356  cyan-ATLAS  2.178  0.654  19.455  0.326  None  ATLAS  HKO  None
+OBS:      59347.359  cyan-ATLAS  0.508  0.617  19.368  5.000  None  ATLAS  HKO  None
+OBS:      59347.375  cyan-ATLAS  0.734  0.299  19.769  5.000  None  ATLAS  HKO  None
+OBS:      59347.405  cyan-ATLAS  1.416  0.654  18.979  5.000  None  ATLAS  HKO  None
+OBS:      59349.318  orange-ATLAS  -1.852  1.017  nan  -0.596  None  ATLAS  HKO  None
+OBS:      59349.337  orange-ATLAS  -1.839  0.352  nan  -0.208  None  ATLAS  HKO  None
+OBS:      59350.413  cyan-ATLAS  1.287  0.373  20.026  0.314  None  ATLAS  HKO  None
+OBS:      59350.426  cyan-ATLAS  2.106  0.762  18.693  5.000  None  ATLAS  HKO  None
+OBS:      59352.343  orange-ATLAS  -1.525  0.871  nan  -0.620  None  ATLAS  HKO  None
+OBS:      59352.356  orange-ATLAS  -2.172  0.448  nan  -0.224  None  ATLAS  HKO  None
+OBS:      59352.373  orange-ATLAS  -3.631  0.799  nan  -0.239  None  ATLAS  HKO  None
+OBS:      59353.322  orange-ATLAS  -0.690  0.690  nan  -1.086  None  ATLAS  HKO  None
+OBS:      59353.349  orange-ATLAS  -0.938  0.411  nan  -0.476  None  ATLAS  HKO  None
+OBS:      59353.366  orange-ATLAS  -0.436  0.944  nan  -2.352  None  ATLAS  HKO  None
+OBS:      59353.371  orange-ATLAS  -0.690  0.799  nan  -1.257  None  ATLAS  HKO  None
+OBS:      59354.347  orange-ATLAS  -0.436  1.452  nan  -3.619  None  ATLAS  HKO  None
+OBS:      59354.358  orange-ATLAS  -1.116  0.687  nan  -0.668  None  ATLAS  HKO  None
+OBS:      59354.394  orange-ATLAS  -4.030  1.924  nan  -0.518  None  ATLAS  HKO  None
+OBS:      59358.328  orange-ATLAS  0.363  1.525  18.566  5.000  None  ATLAS  HKO  None
+OBS:      59358.330  orange-ATLAS  -0.254  1.380  nan  -5.894  None  ATLAS  HKO  None
+OBS:      59358.348  orange-ATLAS  -0.584  0.795  nan  -1.478  None  ATLAS  HKO  None
+OBS:      59358.364  orange-ATLAS  -2.142  2.396  nan  -1.215  None  ATLAS  HKO  None
+OBS:      59358.384  orange-ATLAS  -1.271  1.489  nan  -1.272  None  ATLAS  HKO  None
+OBS:      59359.327  orange-ATLAS  2.215  1.743  18.121  5.000  None  ATLAS  HKO  None
+OBS:      59359.346  orange-ATLAS  2.153  0.960  18.545  5.000  None  ATLAS  HKO  None
+OBS:      59359.359  orange-ATLAS  0.508  1.779  18.383  5.000  None  ATLAS  HKO  None
+OBS:      59359.368  orange-ATLAS  -3.050  3.014  nan  -1.073  None  ATLAS  HKO  None
+OBS:      59360.407  orange-ATLAS  0.073  1.961  18.363  5.000  None  ATLAS  HKO  None
+OBS:      59360.421  orange-ATLAS  -0.417  0.794  nan  -2.067  None  ATLAS  HKO  None
+OBS:      59362.374  orange-ATLAS  -1.488  0.720  nan  -0.525  None  ATLAS  HKO  None
+OBS:      59362.389  orange-ATLAS  -3.776  1.779  nan  -0.512  None  ATLAS  HKO  None
+OBS:      59363.330  orange-ATLAS  -0.980  0.944  nan  -1.046  None  ATLAS  HKO  None
+OBS:      59363.342  orange-ATLAS  0.194  0.578  19.587  5.000  None  ATLAS  HKO  None
+OBS:      59364.323  orange-ATLAS  -0.558  0.500  nan  -0.974  None  ATLAS  HKO  None
+OBS:      59364.334  orange-ATLAS  2.287  1.198  18.376  5.000  None  ATLAS  HKO  None
+OBS:      59367.294  orange-ATLAS  1.234  1.234  18.566  5.000  None  ATLAS  HKO  None
+OBS:      59367.298  orange-ATLAS  -0.436  0.871  nan  -2.171  None  ATLAS  HKO  None
+OBS:      59367.309  orange-ATLAS  0.352  0.501  19.629  5.000  None  ATLAS  HKO  None
+OBS:      59367.333  orange-ATLAS  1.017  0.980  18.806  5.000  None  ATLAS  HKO  None
+OBS:      59368.348  cyan-ATLAS  1.489  0.944  18.711  5.000  None  ATLAS  HKO  None
+OBS:      59368.362  cyan-ATLAS  -0.574  0.403  nan  -0.763  None  ATLAS  HKO  None
+OBS:      59369.318  cyan-ATLAS  -3.086  1.017  nan  -0.358  None  ATLAS  HKO  None
+OBS:      59369.334  cyan-ATLAS  -0.992  0.424  nan  -0.464  None  ATLAS  HKO  None
+OBS:      59369.351  cyan-ATLAS  0.036  0.944  19.156  5.000  None  ATLAS  HKO  None
+OBS:      59370.316  orange-ATLAS  -0.841  0.585  nan  -0.755  None  ATLAS  HKO  None
+OBS:      59370.327  orange-ATLAS  -1.017  1.089  nan  -1.163  None  ATLAS  HKO  None
+OBS:      59372.311  cyan-ATLAS  -0.864  0.348  nan  -0.438  None  ATLAS  HKO  None
+OBS:      59372.326  cyan-ATLAS  0.145  0.908  19.156  5.000  None  ATLAS  HKO  None
+OBS:      59374.294  orange-ATLAS  -2.152  0.635  nan  -0.320  None  ATLAS  HKO  None
+OBS:      59374.307  orange-ATLAS  -1.961  1.525  nan  -0.844  None  ATLAS  HKO  None
+OBS:      59377.272  cyan-ATLAS  -0.326  0.488  nan  -1.624  None  ATLAS  HKO  None
+OBS:      59377.291  cyan-ATLAS  -2.505  0.472  nan  -0.205  None  ATLAS  HKO  Bad
+OBS:      59377.309  cyan-ATLAS  1.452  0.545  19.076  5.000  None  ATLAS  HKO  None
+OBS:      59381.282  orange-ATLAS  -1.888  1.307  nan  -0.752  None  ATLAS  HKO  None
+OBS:      59381.286  orange-ATLAS  -2.650  1.017  nan  -0.416  None  ATLAS  HKO  None
+OBS:      59381.297  orange-ATLAS  -1.719  0.523  nan  -0.330  None  ATLAS  HKO  None
+OBS:      59381.323  orange-ATLAS  -75.811  62.268  nan  -0.892  None  ATLAS  HKO  Bad
+OBS:      59385.346  orange-ATLAS  0.764  0.785  19.066  5.000  None  ATLAS  HKO  None
+OBS:      59385.362  orange-ATLAS  -6.027  2.070  nan  -0.373  None  ATLAS  HKO  None
+OBS:      59386.324  orange-ATLAS  4.611  2.469  17.600  5.000  None  ATLAS  HKO  None
+OBS:      59386.335  orange-ATLAS  4.179  1.505  17.952  5.000  None  ATLAS  HKO  None
+OBS:      59386.368  orange-ATLAS  6.535  3.703  17.183  5.000  None  ATLAS  HKO  Bad
+OBS:      59388.257  orange-ATLAS  40.048  1.234  16.294  0.033  None  ATLAS  HKO  None
+OBS:      59388.270  orange-ATLAS  41.531  0.651  16.254  0.017  None  ATLAS  HKO  None
+OBS:      59388.289  orange-ATLAS  42.589  1.380  16.227  0.035  None  ATLAS  HKO  None
+OBS:      59389.286  orange-ATLAS  81.635  0.972  15.520  0.013  None  ATLAS  HKO  None
+OBS:      59389.297  orange-ATLAS  82.237  1.452  15.512  0.019  None  ATLAS  HKO  None
+OBS:      59389.302  orange-ATLAS  7.153  18.517  15.807  5.000  None  ATLAS  HKO  Bad
+OBS:      59390.267  orange-ATLAS  132.415  3.340  14.995  0.027  None  ATLAS  HKO  Bad
+OBS:      59390.270  orange-ATLAS  127.223  4.466  15.039  0.038  None  ATLAS  HKO  Bad
+OBS:      59390.276  orange-ATLAS  123.447  3.667  15.071  0.032  None  ATLAS  HKO  Bad
+OBS:      59390.288  orange-ATLAS  129.074  3.776  15.023  0.032  None  ATLAS  HKO  Bad
+OBS:      59393.289  orange-ATLAS  262.288  1.198  14.253  0.005  None  ATLAS  HKO  Bad
+OBS:      59393.297  orange-ATLAS  258.221  1.452  14.270  0.006  None  ATLAS  HKO  Bad
+OBS:      59393.304  orange-ATLAS  260.472  1.380  14.261  0.006  None  ATLAS  HKO  Bad
+OBS:      59393.318  orange-ATLAS  265.519  1.307  14.240  0.005  None  ATLAS  HKO  Bad
+OBS:      59394.337  cyan-ATLAS  299.104  1.307  14.110  0.005  None  ATLAS  HKO  Bad
+OBS:      59394.344  cyan-ATLAS  315.587  1.307  14.052  0.004  None  ATLAS  HKO  Bad
+OBS:      59394.362  cyan-ATLAS  307.164  1.307  14.082  0.005  None  ATLAS  HKO  Bad
+OBS:      59394.370  cyan-ATLAS  309.343  1.416  14.074  0.005  None  ATLAS  HKO  Bad
+OBS:      59397.292  orange-ATLAS  381.739  0.750  13.846  0.002  None  ATLAS  HKO  None
+OBS:      59400.265  orange-ATLAS  365.037  0.748  13.894  0.002  None  ATLAS  HKO  None
+OBS:      59403.278  cyan-ATLAS  183.649  0.622  14.640  0.004  None  ATLAS  HKO  None
+OBS:      59416.270  orange-ATLAS  94.144  4.014  15.366  0.046  None  ATLAS  HKO  None
+OBS:      59425.258  cyan-ATLAS  36.802  0.596  16.385  0.018  None  ATLAS  HKO  None
+OBS:      59426.259  orange-ATLAS  50.084  0.760  16.051  0.016  None  ATLAS  HKO  None
+OBS:      59427.254  orange-ATLAS  45.250  1.522  16.161  0.037  None  ATLAS  HKO  None
+OBS:      59429.261  cyan-ATLAS  32.459  0.565  16.522  0.019  None  ATLAS  HKO  None
+OBS:      59431.248  orange-ATLAS  48.689  4.793  16.081  0.107  None  ATLAS  HKO  Bad
+OBS:      59433.243  cyan-ATLAS  28.558  1.404  16.661  0.053  None  ATLAS  HKO  None
+OBS:      59390.230  g  100487.511  1429.812  14.995  0.015  None  Thacher  ACP  None
+OBS:      59390.231  r  104173.446  1208.667  14.956  0.013  None  Thacher  ACP  None
+OBS:      59390.233  i  91841.715  995.838  15.092  0.012  None  Thacher  ACP  None
+OBS:      59390.235  z  81622.581  1354.103  15.221  0.018  None  Thacher  ACP  None
+OBS:      59391.214  g  140785.397  1762.010  14.629  0.014  None  Thacher  ACP  None
+OBS:      59391.216  r  144226.748  1476.095  14.602  0.011  None  Thacher  ACP  None
+OBS:      59391.218  i  135533.416  1446.967  14.669  0.012  None  Thacher  ACP  None
+OBS:      59391.219  z  11636.154  11636.154  17.335  1.086  None  Thacher  ACP  Bad
+OBS:      59392.175  g  38133.001  38133.001  16.047  1.086  None  Thacher  ACP  Bad
+OBS:      59392.178  r  26258.966  26258.966  16.452  1.086  None  Thacher  ACP  Bad
+OBS:      59392.180  i  55039.587  55039.587  15.648  1.086  None  Thacher  ACP  Bad
+OBS:      59392.182  z  77978.417  77978.417  15.270  1.086  None  Thacher  ACP  Bad
+OBS:      59393.214  g  8861.860  8861.860  17.631  1.086  None  Thacher  ACP  Bad
+OBS:      59393.217  r  9117.862  9117.862  17.600  1.086  None  Thacher  ACP  Bad
+OBS:      59393.219  i  11005.434  11005.434  17.396  1.086  None  Thacher  ACP  Bad
+OBS:      59393.221  z  24852.615  24852.615  16.512  1.086  None  Thacher  ACP  Bad
+OBS:      59395.216  g  229594.522  2278.441  14.097  0.011  None  Thacher  ACP  None
+OBS:      59395.218  r  285215.804  2359.067  13.862  0.009  None  Thacher  ACP  None
+OBS:      59395.221  i  3726.247  3726.247  18.572  1.086  None  Thacher  ACP  Bad
+OBS:      59395.223  z  229234.748  3515.966  14.099  0.017  None  Thacher  ACP  None
+OBS:      59396.215  g  232353.649  2207.089  14.084  0.010  None  Thacher  ACP  None
+OBS:      59396.218  r  304055.097  2448.610  13.793  0.009  None  Thacher  ACP  None
+OBS:      59396.220  i  255586.416  2138.483  13.981  0.009  None  Thacher  ACP  None
+OBS:      59396.222  z  230006.778  2689.150  14.096  0.013  None  Thacher  ACP  None
+OBS:      59397.215  g  217140.052  1997.693  14.159  0.010  None  Thacher  ACP  None
+OBS:      59397.217  r  321330.419  2502.551  13.733  0.009  None  Thacher  ACP  None
+OBS:      59397.220  i  267215.639  1934.161  13.933  0.008  None  Thacher  ACP  None
+OBS:      59397.222  z  236499.733  2528.685  14.065  0.012  None  Thacher  ACP  None
+OBS:      59399.214  g  167227.218  1553.282  14.442  0.010  None  Thacher  ACP  None
+OBS:      59399.217  r  312557.173  2510.635  13.762  0.009  None  Thacher  ACP  None
+OBS:      59399.219  i  271227.168  2070.144  13.916  0.008  None  Thacher  ACP  None
+OBS:      59399.221  z  254391.549  2832.542  13.986  0.012  None  Thacher  ACP  None
+OBS:      59400.215  g  143446.668  1324.603  14.608  0.010  None  Thacher  ACP  None
+OBS:      59400.217  r  299103.188  2327.570  13.810  0.009  None  Thacher  ACP  None
+OBS:      59400.219  i  269553.823  2075.683  13.923  0.008  None  Thacher  ACP  None
+OBS:      59400.222  z  256950.635  2861.037  13.976  0.012  None  Thacher  ACP  None
+OBS:      59401.214  g  130633.773  1441.912  14.710  0.012  None  Thacher  ACP  None
+OBS:      59401.216  r  275566.204  2336.186  13.899  0.009  None  Thacher  ACP  None
+OBS:      59401.219  i  267949.311  2251.940  13.930  0.009  None  Thacher  ACP  None
+OBS:      59401.221  z  273686.963  3560.305  13.907  0.014  None  Thacher  ACP  None
+OBS:      59405.214  g  72403.968  824.440  15.351  0.012  None  Thacher  ACP  None
+OBS:      59405.216  r  175500.925  1585.168  14.389  0.010  None  Thacher  ACP  None
+OBS:      59405.219  i  190033.135  1636.495  14.303  0.009  None  Thacher  ACP  None
+OBS:      59405.221  z  8222.310  8222.310  17.712  1.086  None  Thacher  ACP  Bad
+OBS:      59406.213  g  3915.966  3915.966  18.518  1.086  None  Thacher  ACP  Bad
+OBS:      59406.215  r  191738.069  2144.572  14.293  0.012  None  Thacher  ACP  None
+OBS:      59406.218  i  201859.989  2013.401  14.238  0.011  None  Thacher  ACP  None
+OBS:      59406.220  z  246559.925  3346.135  14.021  0.015  None  Thacher  ACP  None
+OBS:      59407.213  g  59716.939  700.126  15.560  0.013  None  Thacher  ACP  None
+OBS:      59407.215  r  147463.293  1337.097  14.579  0.010  None  Thacher  ACP  None
+OBS:      59407.217  i  163261.358  1417.555  14.468  0.009  None  Thacher  ACP  None
+OBS:      59407.219  z  7654.581  7654.581  17.790  1.086  None  Thacher  ACP  Bad
+OBS:      59408.213  g  59081.383  807.840  15.572  0.015  None  Thacher  ACP  None
+OBS:      59408.215  r  134080.436  1326.868  14.682  0.011  None  Thacher  ACP  None
+OBS:      59408.217  i  149872.622  1368.775  14.560  0.010  None  Thacher  ACP  None
+OBS:      59408.220  z  206210.706  2850.049  14.214  0.015  None  Thacher  ACP  None
+OBS:      59409.212  g  50150.891  723.342  15.749  0.016  None  Thacher  ACP  None
+OBS:      59409.214  r  114644.323  1226.745  14.852  0.012  None  Thacher  ACP  None
+OBS:      59409.217  i  127347.838  1242.095  14.738  0.011  None  Thacher  ACP  None
+OBS:      59409.219  z  6093.945  6093.945  18.038  1.086  None  Thacher  ACP  Bad
+OBS:      59410.212  g  46798.254  842.086  15.825  0.019  None  Thacher  ACP  None
+OBS:      59410.214  r  104851.351  1278.949  14.949  0.013  None  Thacher  ACP  None
+OBS:      59410.216  i  119162.547  1410.347  14.810  0.013  None  Thacher  ACP  None
+OBS:      59410.219  z  189838.697  2762.683  14.304  0.016  None  Thacher  ACP  None
+OBS:      59411.212  g  44343.365  718.354  15.883  0.018  None  Thacher  ACP  None
+OBS:      59411.214  r  97664.992  1184.882  15.025  0.013  None  Thacher  ACP  None
+OBS:      59411.216  i  109525.362  1337.147  14.901  0.013  None  Thacher  ACP  None
+OBS:      59411.219  z  179798.059  2561.087  14.363  0.015  None  Thacher  ACP  None
+OBS:      59412.211  g  40030.286  708.820  15.994  0.019  None  Thacher  ACP  None
+OBS:      59412.214  r  88433.882  1049.757  15.134  0.013  None  Thacher  ACP  None
+OBS:      59412.216  i  104236.697  1151.595  14.955  0.012  None  Thacher  ACP  None
+OBS:      59412.218  z  175516.273  2410.796  14.390  0.015  None  Thacher  ACP  None
+OBS:      59413.211  g  38804.664  774.676  16.027  0.022  None  Thacher  ACP  None
+OBS:      59413.214  r  80719.239  2194.841  15.233  0.029  None  Thacher  ACP  None
+OBS:      59413.216  i  93731.685  1772.093  15.070  0.021  None  Thacher  ACP  None
+OBS:      59413.218  z  14325.743  14325.743  17.110  1.086  None  Thacher  ACP  Bad
+OBS:      59414.211  g  37872.057  836.386  16.055  0.024  None  Thacher  ACP  None
+OBS:      59414.213  r  80592.730  1098.848  15.234  0.015  None  Thacher  ACP  None
+OBS:      59414.215  i  5314.031  5314.031  18.186  1.086  None  Thacher  ACP  Bad
+OBS:      59414.217  z  165771.516  2633.647  14.451  0.017  None  Thacher  ACP  None
+OBS:      59416.209  g  35840.081  681.663  16.114  0.021  None  Thacher  ACP  None
+OBS:      59416.212  r  74509.625  947.671  15.319  0.014  None  Thacher  ACP  None
+OBS:      59416.215  i  4731.180  4731.180  18.313  1.086  None  Thacher  ACP  Bad
+OBS:      59416.218  z  158413.265  2126.862  14.500  0.015  None  Thacher  ACP  None
+OBS:      59417.208  g  32558.653  559.081  16.218  0.019  None  Thacher  ACP  None
+OBS:      59417.211  r  62946.081  705.988  15.503  0.012  None  Thacher  ACP  None
+OBS:      59417.214  i  3826.081  3826.081  18.543  1.086  None  Thacher  ACP  Bad
+OBS:      59417.217  z  148144.032  1806.308  14.573  0.013  None  Thacher  ACP  None
+OBS:      59418.212  r  7687.844  7687.844  17.785  1.086  None  Thacher  ACP  Bad
+OBS:      59418.215  i  9564.182  9564.182  17.548  1.086  None  Thacher  ACP  Bad
+OBS:      59418.218  z  17462.091  17462.091  16.895  1.086  None  Thacher  ACP  Bad
+OBS:      59419.208  g  5679.555  5679.555  18.114  1.086  None  Thacher  ACP  Bad
+OBS:      59419.211  r  4660.701  4660.701  18.329  1.086  None  Thacher  ACP  Bad
+OBS:      59419.214  i  64542.771  977.985  15.475  0.017  None  Thacher  ACP  None
+OBS:      59419.217  z  137886.958  2327.702  14.651  0.018  None  Thacher  ACP  None
+OBS:      59427.204  g  5380.435  5380.435  18.173  1.086  None  Thacher  ACP  Bad
+OBS:      59427.207  r  4262.837  4262.837  18.426  1.086  None  Thacher  ACP  Bad
+OBS:      59427.210  i  6490.134  6490.134  17.969  1.086  None  Thacher  ACP  Bad
+OBS:      59427.213  z  20398.207  20398.207  16.726  1.086  None  Thacher  ACP  Bad
+OBS:      59429.161  g  4403.556  4403.556  18.390  1.086  None  Thacher  ACP  Bad
+OBS:      59429.164  r  36432.569  595.023  16.096  0.018  None  Thacher  ACP  Bad
+OBS:      59429.167  i  50163.499  803.931  15.749  0.017  None  Thacher  ACP  Bad
+OBS:      59429.170  z  76727.005  1232.834  15.288  0.017  None  Thacher  ACP  Bad
+OBS:      59431.160  g  5996.860  5996.860  18.055  1.086  None  Thacher  ACP  Bad
+OBS:      59431.163  r  3501.084  3501.084  18.640  1.086  None  Thacher  ACP  Bad
+OBS:      59431.166  i  4989.066  4989.066  18.255  1.086  None  Thacher  ACP  Bad
+OBS:      59431.169  z  83231.829  1751.947  15.199  0.023  None  Thacher  ACP  Bad
+OBS:      59433.158  g  4560.985  4560.985  18.352  1.086  None  Thacher  ACP  Bad
+OBS:      59433.161  r  3121.261  3121.261  18.764  1.086  None  Thacher  ACP  Bad
+OBS:      59433.164  i  4078.145  4078.145  18.474  1.086  None  Thacher  ACP  Bad
+OBS:      59433.167  z  61646.559  1345.760  15.526  0.024  None  Thacher  ACP  Bad
+OBS:      59435.157  g  5484.881  5484.881  18.152  1.086  None  Thacher  ACP  Bad
+OBS:      59435.160  r  3310.824  3310.824  18.700  1.086  None  Thacher  ACP  Bad
+OBS:      59435.163  i  4446.314  4446.314  18.380  1.086  None  Thacher  ACP  Bad
+OBS:      59435.166  z  49933.543  1249.557  15.754  0.027  None  Thacher  ACP  Bad
+OBS:      59443.150  g  111597.752  111597.752  14.881  1.086  None  Thacher  ACP  Bad
+OBS:      59443.153  r  48942.219  48942.219  15.776  1.086  None  Thacher  ACP  Bad
+OBS:      59443.156  i  35338.927  35338.927  16.129  1.086  None  Thacher  ACP  Bad
+OBS:      59443.159  z  51392.014  51392.014  15.723  1.086  None  Thacher  ACP  Bad
+OBS:      59447.146  g  21782.522  21782.522  16.655  1.086  None  Thacher  ACP  Bad
+OBS:      59447.149  r  14295.968  14295.968  17.112  1.086  None  Thacher  ACP  Bad
+OBS:      59447.152  i  14469.251  14469.251  17.099  1.086  None  Thacher  ACP  Bad
+OBS:      59447.155  z  25210.114  25210.114  16.496  1.086  None  Thacher  ACP  Bad
+OBS:      59399.211  r  315412.334  7655.567  13.753  0.026  None  Nickel  Direct/2Kx2K  None
+OBS:      59399.214  i  263932.368  6333.209  13.946  0.026  None  Nickel  Direct/2Kx2K  None
+OBS:      59402.209  B  51239.783  1688.458  15.726  0.036  None  Nickel  Direct/2Kx2K  None
+OBS:      59402.213  V  171442.226  5300.327  14.415  0.034  None  Nickel  Direct/2Kx2K  None
+OBS:      59402.217  r  242986.273  7140.948  14.036  0.032  None  Nickel  Direct/2Kx2K  None
+OBS:      59402.220  i  228567.492  6405.874  14.102  0.030  None  Nickel  Direct/2Kx2K  None
+OBS:      59408.215  V  89434.949  2795.282  15.121  0.034  None  Nickel  Direct/2Kx2K  None
+OBS:      59408.219  r  124592.977  3694.442  14.761  0.032  None  Nickel  Direct/2Kx2K  None
+OBS:      59408.222  i  134023.075  4155.141  14.682  0.034  None  Nickel  Direct/2Kx2K  None
+OBS:      59411.210  V  69227.506  2289.318  15.400  0.036  None  Nickel  Direct/2Kx2K  None
+OBS:      59411.214  r  93093.004  2941.208  15.078  0.034  None  Nickel  Direct/2Kx2K  None
+OBS:      59411.217  i  102965.136  3274.834  14.969  0.035  None  Nickel  Direct/2Kx2K  None
+OBS:      59420.199  B  15363.255  531.675  17.034  0.038  None  Nickel  Direct/2Kx2K  None
+OBS:      59420.208  r  48247.213  1331.902  15.791  0.030  None  Nickel  Direct/2Kx2K  None
+OBS:      59420.211  i  58378.756  1428.972  15.584  0.027  None  Nickel  Direct/2Kx2K  None
+OBS:      59420.449  G  53456.436  9847.039  15.680  0.200  None  Gaia  Gaia-Photometric  None
+OBS:      59558.357  r  314.271  32.488  21.257  0.112  None  Blanco  DECam  None
+OBS:      59571.333  i  1152.833  33.180  19.846  0.031  None  Blanco  DECam  None
+OBS:      59571.334  z  997.738  45.653  20.002  0.050  None  Blanco  DECam  None
+OBS:      59572.349  i  1225.076  43.247  19.780  0.038  None  Blanco  DECam  None
+OBS:      59579.332  g  533.451  18.149  20.682  0.037  None  Blanco  DECam  None
+OBS:      59579.333  r  226.766  19.358  21.611  0.093  None  Blanco  DECam  None
+OBS:      59582.332  g  483.038  20.952  20.790  0.047  None  Blanco  DECam  None
+OBS:      59582.333  i  868.439  29.811  20.153  0.037  None  Blanco  DECam  None
+OBS:      59585.333  g  474.276  18.902  20.810  0.043  None  Blanco  DECam  None
+OBS:      59585.344  r  195.417  17.735  21.773  0.099  None  Blanco  DECam  None
+OBS:      59588.342  g  416.311  34.235  20.951  0.089  None  Blanco  DECam  None
+OBS:      59588.357  i  632.085  46.473  20.498  0.080  None  Blanco  DECam  None
+OBS:      59781.280  r  -854.058  241.895  nan  -0.308  None  Pan-STARRS2  GPC2  None
+OBS:      59781.282  z  -2663.142  718.705  nan  -0.293  None  Pan-STARRS2  GPC2  None
+OBS:      59783.272  i  -951.436  322.475  nan  -0.368  None  Pan-STARRS2  GPC2  None
+OBS:      59783.275  r  -728.754  247.077  nan  -0.368  None  Pan-STARRS2  GPC2  None
+OBS:      59785.270  r  -708.230  274.651  nan  -0.421  None  Pan-STARRS2  GPC2  None
+OBS:      59785.273  z  -1747.511  429.975  nan  -0.267  None  Pan-STARRS2  GPC2  None

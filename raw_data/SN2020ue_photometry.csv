@@ -1,0 +1,8 @@
+obsdate,jd,flux,fluxerr,limflux,flux_unit,instrument,telescope,filters,exptime,observer,remarks
+2020-04-10 09:48:58,2458949.909,16.01,0.01,20.7,"{'id': 1, 'name': 'ABMag'}","{'id': 257, 'name': 'GPC2'}","{'id': 154, 'name': 'PS2'}","{'id': 58, 'name': 'i-P1'}",45.0,Robot,
+2020-01-20 07:40:48,2458868.82,12.43,0.2,,"{'id': 1, 'name': 'ABMag'}","{'id': 163, 'name': 'Gaia-photometric'}","{'id': 107, 'name': 'Gaia'}","{'id': 75, 'name': 'G-Gaia'}",60.0,Robot,
+2020-01-20 05:54:14,2458868.7459954,,,21.5,"{'id': 1, 'name': 'ABMag'}","{'id': 163, 'name': 'Gaia-photometric'}","{'id': 107, 'name': 'Gaia'}","{'id': 75, 'name': 'G-Gaia'}",,Robot,[Last non detection] 
+2020-01-04 14:58:33,2458853.1239931,,,18.71,"{'id': 1, 'name': 'ABMag'}","{'id': 160, 'name': 'ATLAS-01'}","{'id': 104, 'name': 'ATLAS-MLO'}","{'id': 72, 'name': 'orange-ATLAS'}",30.0,Robot,[Last non detection] 
+2020-01-18 15:25:55,2458867.1429977,12.747,0.002,19.54,"{'id': 1, 'name': 'ABMag'}","{'id': 159, 'name': 'ATLAS-02'}","{'id': 103, 'name': 'ATLAS-HKO'}","{'id': 72, 'name': 'orange-ATLAS'}",30.0,Robot,
+2020-01-19 14:32:38,2458868.1059954,12.8,0.0,21.0,"{'id': 1, 'name': 'ABMag'}","{'id': 155, 'name': 'GPC1'}","{'id': 98, 'name': 'PS1'}","{'id': 56, 'name': 'g-P1'}",27.0,Robot,
+2020-01-12 17:20:56,2458861.2228704,15.0,,,"{'id': 3, 'name': 'VegaMag'}","{'id': 0, 'name': 'Other'}","{'id': 0, 'name': 'Other'}","{'id': 1, 'name': 'Clear-'}",,,0.5-m F/6.0 reflector+CCD (KAF-1001) 

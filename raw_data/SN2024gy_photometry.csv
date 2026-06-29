@@ -1,0 +1,15 @@
+obsdate,jd,fluxcal,fluxcalerr,limflux,flux_unit,instrument,telescope,filters,exptime,observer,remarks
+12/31/2023 5:40,2460309.736,,,19.1,"{'id': 1, 'name': 'ABMag'}","{'id': 264, 'name': 'GOTO-2'}","{'id': 129, 'name': 'GOTO-N'}","{'id': 120, 'name': 'L-GOTO'}",180,,[Last non detection] 
+3/14/2024 9:04,2460383.878,15.13,0,22,"{'id': 1, 'name': 'ABMag'}","{'id': 257, 'name': 'GPC2'}","{'id': 154, 'name': 'PS2'}","{'id': 26, 'name': 'w-P1'}",45,Robot,
+1/6/2024 5:00,2460315.709,15.4,0.01,,"{'id': 1, 'name': 'ABMag'}","{'id': 218, 'name': 'GOTO-1'}","{'id': 129, 'name': 'GOTO-N'}","{'id': 120, 'name': 'L-GOTO'}",180,,
+1/5/2024 12:09,2460315.007,,,20.4529,"{'id': 1, 'name': 'ABMag'}","{'id': 196, 'name': 'ZTF-Cam'}","{'id': 1, 'name': 'P48'}","{'id': 111, 'name': 'r-ZTF'}",30,None,[Last non detection] 
+1/13/2024 11:36,2460322.984,13.2774,,20.3575,"{'id': 1, 'name': 'ABMag'}","{'id': 196, 'name': 'ZTF-Cam'}","{'id': 1, 'name': 'P48'}","{'id': 110, 'name': 'g-ZTF'}",30,None,
+12/31/2023 10:48,2460309.95,,,17.5,"{'id': 1, 'name': 'ABMag'}","{'id': 192, 'name': 'Leavitt'}","{'id': 115, 'name': 'ASASSN-4'}","{'id': 21, 'name': 'g-Sloan'}",,,[Last non detection] 
+1/6/2024 13:54,2460316.079,15.309,0.012,19.54,"{'id': 1, 'name': 'ABMag'}","{'id': 160, 'name': 'ATLAS-01'}","{'id': 104, 'name': 'ATLAS-MLO'}","{'id': 72, 'name': 'orange-ATLAS'}",30,Robot,
+12/30/2023 14:22,2460309.099,,,18.91,"{'id': 1, 'name': 'ABMag'}","{'id': 159, 'name': 'ATLAS-02'}","{'id': 103, 'name': 'ATLAS-HKO'}","{'id': 72, 'name': 'orange-ATLAS'}",30,Robot,[Last non detection] 
+1/7/2024 13:47,2460317.074,14.8,0.01,21,"{'id': 1, 'name': 'ABMag'}","{'id': 155, 'name': 'GPC1'}","{'id': 98, 'name': 'PS1'}","{'id': 56, 'name': 'g-P1'}",27,Robot,
+1/5/2024 11:02,2460314.96,16,,,"{'id': 1, 'name': 'ABMag'}","{'id': 153, 'name': 'Brutus'}","{'id': 99, 'name': 'ASASSN-1'}","{'id': 21, 'name': 'g-Sloan'}",,,
+3/28/2024 22:15,2460398.427,14.6,,17.8,"{'id': 3, 'name': 'VegaMag'}","{'id': 0, 'name': 'Other'}","{'id': 0, 'name': 'Other'}","{'id': 1, 'name': 'Clear-'}",60,Robot,MASTER-Kislovodsk
+3/28/2024 21:43,2460398.405,15,,17.8,"{'id': 3, 'name': 'VegaMag'}","{'id': 0, 'name': 'Other'}","{'id': 0, 'name': 'Other'}","{'id': 1, 'name': 'Clear-'}",60,Robot,MASTER-Kislovodsk
+1/4/2024 16:16,2460314.178,16.3,,,"{'id': 3, 'name': 'VegaMag'}","{'id': 0, 'name': 'Other'}","{'id': 0, 'name': 'Other'}","{'id': 1, 'name': 'Clear-'}",,,0.5m-F6.7
+3/23/2010 20:28,2455279.353,,,20.3,"{'id': 3, 'name': 'VegaMag'}","{'id': 0, 'name': 'Other'}","{'id': 0, 'name': 'Other'}","{'id': 1, 'name': 'Clear-'}",180,Robot,[Last non detection] MASTER-Kislovodsk

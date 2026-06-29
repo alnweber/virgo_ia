@@ -1,0 +1,8 @@
+obsdate,jd,flux,fluxerr,limflux,flux_unit,instrument,telescope,filters,exptime,observer,remarks
+2021-06-26 06:17:17,2459391.762,14.66,,,"{'id': 1, 'name': 'ABMag'}","{'id': 196, 'name': 'ZTF-Cam'}","{'id': 1, 'name': 'P48'}","{'id': 111, 'name': 'r-ZTF'}",30.0,ZTF,
+2021-06-26 05:55:41,2459391.747,14.77,,,"{'id': 1, 'name': 'ABMag'}","{'id': 196, 'name': 'ZTF-Cam'}","{'id': 1, 'name': 'P48'}","{'id': 110, 'name': 'g-ZTF'}",30.0,ZTF,
+2021-06-22 06:43:12,2459387.78,,,18.4,"{'id': 1, 'name': 'ABMag'}","{'id': 196, 'name': 'ZTF-Cam'}","{'id': 1, 'name': 'P48'}","{'id': 110, 'name': 'g-ZTF'}",30.0,ZTF,[Last non detection] 
+2021-07-25 10:46:34,2459420.949,15.68,0.2,,"{'id': 1, 'name': 'ABMag'}","{'id': 163, 'name': 'Gaia-photometric'}","{'id': 107, 'name': 'Gaia'}","{'id': 75, 'name': 'G-Gaia'}",60.0,Robot,
+2021-06-19 01:06:14,2459384.546,,,21.5,"{'id': 1, 'name': 'ABMag'}","{'id': 163, 'name': 'Gaia-photometric'}","{'id': 107, 'name': 'Gaia'}","{'id': 75, 'name': 'G-Gaia'}",,Robot,[Last non detection] 
+2021-06-23 06:10:05,2459388.757,16.273,0.04,19.05,"{'id': 1, 'name': 'ABMag'}","{'id': 160, 'name': 'ATLAS-01'}","{'id': 104, 'name': 'ATLAS-MLO'}","{'id': 72, 'name': 'orange-ATLAS'}",30.0,Robot,
+2021-06-21 08:49:55,2459386.868,,,18.36,"{'id': 1, 'name': 'ABMag'}","{'id': 159, 'name': 'ATLAS-02'}","{'id': 103, 'name': 'ATLAS-HKO'}","{'id': 72, 'name': 'orange-ATLAS'}",30.0,Robot,[Last non detection] 
